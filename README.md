@@ -3,8 +3,8 @@
 Install a custom application via [scoop](https://scoop.sh/).
 
 ```powershell
-scoop bucket add oryon-scoops https://github.com/oryon-dominik/oryon-scoops
-scoop install oryon-scoops/<application-name>
+scoop bucket add oryons-scoops https://github.com/oryon-dominik/oryons-scoops
+scoop install oryons-scoops/<application-name>
 ```
 
 ## Available Applications
