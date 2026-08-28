@@ -1,0 +1,4 @@
+# Line endings: the repository stores LF. `core.autocrlf` is a machine setting;
+# this rule travels with the repository, so a clone on any machine agrees.
+# Specific rules below override it — keep them below.
+* text=auto eol=lf
